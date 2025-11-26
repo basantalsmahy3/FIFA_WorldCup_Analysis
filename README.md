@@ -1,44 +1,52 @@
-# FIFA_WorldCup_Analysis
 # FIFA World Cup Data Analysis (1930–2014)
 
 ## Project Overview
-This project analyzes historical FIFA World Cup data to understand team performance, goals scored, and tournament trends from 1930 to 2014. The goal is to extract insights, visualize patterns, and demonstrate data storytelling skills using Excel.
+This project analyzes historical FIFA World Cup data to understand team performance, goals scored, and tournament trends from 1930 to 2014. The goal is to extract insights, visualize patterns, and demonstrate data storytelling skills using Excel and CSV datasets.
 
 ## Tools & Techniques
 - **Microsoft Excel**: Pivot Tables, Charts, Conditional Formatting
-- **Data Cleaning**: Removing duplicates, fixing inconsistencies, handling missing values
+- **Data Cleaning & Analysis**: Handling CSV and Excel files
 - **Data Visualization**: Trend analysis, goal distribution, top-performing countries, host country performance
 
 ## Key Achievements
-- Analyzed team performance and goal statistics across all tournaments.
+- Analyzed team performance and player statistics across all tournaments.
 - Identified trends in top-performing countries and host nations.
-- Visualized insights using Pivot Tables and charts to support data-driven storytelling.
+- Visualized insights using Excel charts and pivot tables to support data-driven storytelling.
 - Delivered a comprehensive report summarizing findings and trends.
 
-## Project Files
-- `FIFA_Data.xlsx` → Dataset used for analysis  
-- `FIFA_Analysis_Report.pdf` → Summary of findings, charts, and insights  
-- Optional: screenshots of charts or visualizations (add in `images/` folder)
+## Project Structure
+- `data/` → contains datasets used for analysis  
+  - `TASK DASHBOARD.xlsx`  
+  - `WorldCupMatches.csv`  
+  - `WorldCupPlayers.csv`  
+  - `WorldCups.csv`  
+- `images/` → contains charts, graphs, and visualizations  
+  - `1.jpg`  
+  - `2.jpg`  
+  - `3.jpg`  
+  - `4.jpg`  
+  - `5.jpg`  
+  - `6.jpg`  
+  - `7.jpg`  
+- `videos/` → contains video demonstrations of dashboards  
+  - `Media1.mp4`  
 
 ## How to Explore
-1. Open `FIFA_Data.xlsx` in Excel to explore raw data and Pivot Tables.  
-2. Review the report `FIFA_Analysis_Report.pdf` for detailed insights.  
-3. Optionally, add your own analysis or extend the study using Excel or Python.
+1. Open files in `data/` (`TASK DASHBOARD.xlsx` and CSVs) in Excel to explore raw data and pivot tables.  
+2. Check `images/` for visual insights and charts.  
+3. Watch `videos/Media1.mp4` for an interactive dashboard demo.  
 
-## Insights Examples
+## Example Insights
 - Top-performing countries historically in FIFA World Cup  
 - Goal distribution by tournament and country  
 - Host country advantage analysis  
-- Trends in team performance over the decades
+- Trends in team and player performance over the decades
 
-## Project Visuals
-Below are some example visuals from the analysis (replace with your own screenshots in `images/` folder):
-
-![Goals Distribution](images/goals_distribution.png)  
-*Figure 1: Distribution of goals scored by countries across tournaments.*
-
-![Top Teams](images/top_teams.png)  
-*Figure 2: Top-performing countries in FIFA World Cup history.*
-
-![Host Country Performance](images/host_performance.png)  
-*Figure 3: Performance of host countries over the years.*
+## Visual Examples
+![1](images/1.jpg)  
+![2](images/2.jpg)  
+![3](images/3.jpg)  
+![4](images/4.jpg)  
+![5](images/5.jpg)  
+![6](images/6.jpg)  
+![7](images/7.jpg)
